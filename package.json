@@ -78,7 +78,6 @@
       "cordova-plugin-camera": {},
       "cordova-sqlite-storage": {},
       "cordova-plugin-x-toast": {},
-      "cordova-plugin-sqlite-2": {},
       "cordova-plugin-ionic": {
         "APP_ID": "34b51387",
         "CHANNEL_NAME": "Master",
